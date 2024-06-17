@@ -1,4 +1,6 @@
 <span style="color: #008000"> 42 RPG </span>
+<span style="color:blue">some *blue* text</span>.
+
 
 Console RPG Game created in Challenge #1 of Apple Developer Academy SEnac, where we developed skills from CBL (Challenge Based Learning), storytelling and Swift Programming basics.
 <hr>
