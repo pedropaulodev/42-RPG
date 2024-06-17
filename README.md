@@ -1,4 +1,4 @@
-<span style="color: 'green'">
+<span style="color: #008000">
 # 42 RPG
 </span>
 
